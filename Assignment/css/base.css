@@ -1,0 +1,47 @@
+/* reset starts here */
+* {margin:0; padding:0;}
+a {text-decoration:none;}
+li {list-style-type:none;}
+/* end here */
+
+/* generic starts here */
+.fl {float:left;}
+.fr {float:right;}
+.clr {clear:both;}
+.oh {overflow:hidden;}
+.hide {display:none;}
+/* generic starts here */
+
+
+a {color:black;}
+body {background-color:#ddd; font-family:"Arial"; font-size:13px;}
+
+/*.head{overflow:hidden;background-color:#fff;}
+.wrapper {width:1020px; margin:auto auto 20px auto;} 
+.wrapper .head .logo{float:left;}
+.wrapper .head .logo img{width:100px;height:80px;}
+.wrapper .head .heading{float:right;position: absolute;left: 800px;top: 30px;width:100%;font-weight:bold;}
+
+
+.wrapper #nav{color:#000;border:1px solid #333;background:white;margin-bottom:5p	x;}
+.wrapper #nav li {float:left; width:19.9%;border-right:1px solid black;border-height:10px;text-align:center;padding:0px;}
+.wrapper #nav li img{width:100%;display:none;}
+
+#notify{width:100%;background-color:#fff;}
+
+.wrapper #slider{background-color:#fff;float: left;width: 100%;margin-top:28px;}
+.wrapper #carousel {padding: 0;margin: 0;position: relative;width: 315px;height: 157px;}
+.wrapper #carousel li { padding:0;opacity:0;list-style-type:none;width: 315px;position: absolute;transition:opacity 1s;}
+.wrapper #carousel li img{width:1025px;height:150px;}
+
+section .wrapper{border:1px solid #ddd;background-color:#fff;}
+.wrapper h1{text-align:center;}*/
+
+footer{text-align:center;color:#000;width:100%;height:50px;background-color:#bbb;border-top:1px solid #bbb;float:left;}
+footer .fText{float"left;}
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
